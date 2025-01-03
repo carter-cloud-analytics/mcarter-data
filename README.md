@@ -23,7 +23,5 @@ Data Engineer with 4+ years of experience specializing in cloud-native architect
 ## Featured Projects 🌟
 Coming soon...
 
-<!-- We'll add projects as we develop them -->
-
 ---
 💡 Currently building data engineering solutions with focus on cloud architecture and real-time analytics.

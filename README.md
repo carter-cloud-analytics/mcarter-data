@@ -1,7 +1,7 @@
 # Marquis Carter 👨🏾‍💻
 ### Data Engineer | Cloud Architecture | Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marquis-c-45132325b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marq.dcarter@gmail.com)
 
 ## About Me 🚀
